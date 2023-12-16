@@ -8,6 +8,6 @@ Use :
 
 ## About me
 
-I'm Tach, i start dev and its my first "serious" repo. 
+I'm Tach, i start dev and its a "serious" repo. 
 If u want contact me : 
 - Discord : tachandtd 
